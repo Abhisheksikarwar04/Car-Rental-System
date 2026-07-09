@@ -108,4 +108,4 @@ This project is open-source and available under the MIT License.
 👨‍💻 Author
 
 Abhi
-Java Developer | Cybersecurity Enthusiast | Web Developer
+Java Developer | Web Developer
