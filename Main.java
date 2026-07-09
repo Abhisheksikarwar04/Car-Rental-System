@@ -245,17 +245,15 @@ public class Main{
         Car car1 = new Car("C001", "Toyota", "Fortuner", 80.0); // Different base price per day for each car
         Car car2 = new Car("C002", "Honda", "Accord", 70.0);
         Car car3 = new Car("C003", "Mahindra", "Thar", 100.0);
-        Car car4 = new Car("C004", "Maruti Suzuki", "WagonR", 40.0);
-        Car car5 = new Car("C005", "BMW", "M4", 150.0);
-        Car car6 = new Car("C006", "Mercedes", "S-class", 180.0);
-        Car car7 = new Car("C007", "Audi", "A3", 160.0);
+        Car car5 = new Car("C004", "BMW", "M4", 150.0);
+        Car car6 = new Car("C005", "Mercedes", "S-class", 180.0);
+        Car car7 = new Car("C006", "Audi", "A3", 160.0);
         rentalSystem.addCar(car1);
         rentalSystem.addCar(car2);
         rentalSystem.addCar(car3);
         rentalSystem.addCar(car4);
         rentalSystem.addCar(car5);
         rentalSystem.addCar(car6);
-        rentalSystem.addCar(car7);
 
         rentalSystem.menu();
     }
